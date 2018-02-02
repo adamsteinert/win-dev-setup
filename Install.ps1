@@ -2,6 +2,10 @@
 
 # Utility
 #
+choco install firefox -y
+
+choco install googlechrome -y
+
 choco install notepadplusplus -y
 
 choco install hyper -y
@@ -26,6 +30,7 @@ choco install veracrypt -y
 
 choco install everything -y # Search tool to Locate files and folders by name instantly. Doesn't actually install everything ;)
 
+
 # Communication
 #
 choco install slack -y
@@ -37,7 +42,9 @@ choco install discord -y
 #
 choco install git -y
 
-choco install nodejs.install -y
+#Choose the blue pill or the red pill
+choco install nodejs-lts -y
+#choco install nodejs.install -y
 
 choco install gitkraken -y
 
