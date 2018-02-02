@@ -4,6 +4,8 @@
 #
 choco install notepadplusplus -y
 
+choco install hyper -y
+
 choco install 7zip.install -y
 
 choco install greenshot -y
@@ -22,6 +24,8 @@ choco install spotify -y
 
 choco install veracrypt -y
 
+choco install everything -y # Search tool to Locate files and folders by name instantly. Doesn't actually install everything ;)
+
 # Communication
 #
 choco install slack -y
@@ -33,9 +37,9 @@ choco install discord -y
 #
 choco install git -y
 
-choco install gitkraken -y
-
 choco install nodejs.install -y
+
+choco install gitkraken -y
 
 # Will need to run setup and install optional components when done
 choco install visualstudiocode -y
