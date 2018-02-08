@@ -42,7 +42,7 @@ choco install discord -y
 #
 choco install git -y
 
-#Choose the blue pill or the red pill
+# Choose the blue pill or the red pill
 choco install nodejs-lts -y
 #choco install nodejs.install -y
 
@@ -53,5 +53,12 @@ choco install visualstudiocode -y
 
 choco install visualstudio2017enterprise -y
 
+choco install nuget.commandline -y
+
 choco install dotnetcore-sdk -y
 
+choco install scriptcs -y
+
+# Optionally select a version of python
+choco install python2 -y
+#choco install python3 -y
